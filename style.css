@@ -1,0 +1,152 @@
+body {
+    text-align: center;
+     margin: 0px;
+    padding-top: 800px;
+  }
+
+ #mypictur{
+     width: 160px;
+     margin-bottom: 50px;
+     border-radius: 50%;
+     margin-bottom: 3px;
+ }
+
+ #About{
+     position: absolute;
+     height: 800px;
+     left: 0px;
+     right: 0px;
+     top: 0px;
+     bottom: 0px;
+     width: 100%;
+     height: 100%;
+     background: linear-gradient(#b3e8aa 0%,#fb0303 100%);
+     display: table;
+     text-align: center;
+     z-index: 9;
+ }
+
+ .profile{
+     text-align: center;
+     vertical-align: middle;
+     position: relative;
+     display: table-cell;
+ }
+
+ #Myfavoritehobby{
+     text-align: center;
+     padding: 50px;
+     font-size: 20px;
+     background: linear-gradient(#f6f702 0%,#f7b602 100%);
+     height: 523px;
+ }
+
+ .line{
+     height: 6px;
+     background-color: black;
+     width: 70px;
+     margin: 8px auto;
+ }
+
+#name{
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: 'Lobster', cursive;
+} 
+
+h2{
+    font-family: 'Train One', cursive;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+h1{
+    font-family: 'Now Tegomin', serif;
+    font-size: 40px;
+    font-weight: 300;  
+}
+
+p{
+max-width: 450px;
+margin: 25px auto;
+font-size: 17px;
+line-height: 1.3;
+font-size: 17px;
+font-family: 'Roboto Mono', monospace;
+}
+  
+#reading {
+    border-radius: 50%;
+    width: 160px;
+  }
+  
+#hobby {
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: 'Dancing Script', cursive;
+  }
+  
+  .main{
+      list-style: none;
+      font-family: sans-serif;
+      position: absolute;
+      top:10px;
+      right: 30px;
+      z-index: 10;
+      cursor: pointer;
+      position: fixed;
+  }
+
+  .link{
+      float: left;
+      color: aquamarine;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      padding-left: 9px;
+      padding-right: 9px;
+      font-family: fantasy;
+      font-size: 20px;
+  }
+
+  .link:hover{
+      background-color: azure;
+  }
+
+  #Myfavoritebook{
+    text-align: center;
+    padding: 50px;
+    font-size: 20px;
+    background: linear-gradient(#b3e8aa 0%,#f7b602 100%);
+    height: 800px;
+}
+
+#Myinspiration{
+    text-align: center;
+    padding: 50px;
+    font-size: 20px;
+    background: linear-gradient(#e59de6 0%,#a9e46d 100%);
+    height: 563px;
+}
+#StephenHawkingbriefAnswers {
+    border-radius: 50%;
+    width: 160px;
+}
+
+#Billgates {
+    border-radius: 50%;
+    margin-bottom: 50px;
+    width: 160px;
+}
+
+a {
+text-decoration: none;
+}
+
+article.hover {
+color: antiquewhite;
+}
+
+html{
+    scroll-behavior: smooth;
+}
